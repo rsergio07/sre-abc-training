@@ -8,27 +8,37 @@ Site Reliability Engineering (SRE) is a discipline that applies software enginee
 
 ---
 
-## Getting Started
+## Getting Started with Codespaces
 
-To begin working on this project, you can launch a preconfigured Codespace with all the required tools already set up. Simply click the button below to get started:
+Follow these steps to launch a pre-configured development environment:
+
+### Step 1: Open the Codespaces Page
+
+Click the button below to open the Codespaces page in a **new browser tab**:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/rsergio07/sre-abc-training/codespaces)
 
-### Steps After Clicking the Button:
+> **Tip**: To keep these instructions visible, right-click the button and select **"Open Link in New Tab"**.
 
-1. **Redirected to the Codespaces Page**  
-   After clicking the button above, you'll land on the Codespaces page for this repository.
+---
 
-2. **Create a New Codespace**  
-   - Click the green button labeled **"Create codespace on main"**.  
-   - Wait for the environment to set up. This may take a few minutes the first time.  
-   - Once the setup is complete, a new tab will open in your web browser containing your Codespace.  
-   - This environment includes all the necessary tools, configurations, and dependencies pre-installed for the exercises.  
+### Step 2: Follow These Steps on the Codespaces Page
 
-3. **Start Coding**  
-   - Once the Codespace is ready, you’ll be inside a fully pre-configured development environment.  
-   - Open the terminal in the Codespace and run any required commands to begin the exercises.  
-   - Follow the exercise instructions provided in the repository to complete each task.  
+Once you're on the Codespaces page:
+
+1. Click the green button labeled **"Create codespace on main"**.
+2. Wait for the environment to set up. This may take a few minutes the first time.
+3. The Codespace will open in a new browser tab, pre-configured and ready to use.
+
+---
+
+### Step 3: Start Coding
+
+When the Codespace environment is ready:
+
+1. Open the terminal within the Codespace.
+2. Run any necessary commands to begin your exercises.
+3. Refer back to the repository for exercise-specific instructions as needed.
 
 ---
 
