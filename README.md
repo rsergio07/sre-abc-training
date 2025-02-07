@@ -10,14 +10,11 @@ Site Reliability Engineering (SRE) is a discipline that applies software enginee
 
 ## Getting Started
 
-Before beginning any practice or exercise, clone this repository to your local machine using the following command:
+To begin working on this project, you can launch a preconfigured Codespace with all the required tools already set up. Simply click the button below to get started:
 
-```bash
-git clone https://github.com/cguilencr/sre-abc-training.git
-cd sre-abc-training
-```
+[![**Launch Codespace**](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/cguillencr/sre-abc-training/codespaces)
 
-This ensures you have access to all the required files and directory structures needed to complete the exercises.
+This ensures you have a consistent development environment without needing to install anything locally. Everything is ready to use directly in your browser.
 
 ---
 
