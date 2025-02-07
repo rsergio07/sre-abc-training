@@ -12,9 +12,23 @@ Site Reliability Engineering (SRE) is a discipline that applies software enginee
 
 To begin working on this project, you can launch a preconfigured Codespace with all the required tools already set up. Simply click the button below to get started:
 
-[![Launch Codespace](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/rsergio07/sre-abc-training/codespaces)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/rsergio07/sre-abc-training/codespaces)
 
-This ensures you have a consistent development environment without needing to install anything locally. Everything is ready to use directly in your browser.
+### Steps After Clicking the Button:
+
+1. **Redirected to the Codespaces Page**  
+   After clicking the button above, you'll land on the Codespaces page for this repository.
+
+2. **Create a New Codespace**  
+   - Click the green button labeled **"Create codespace on main"**.  
+   - Wait for the environment to set up. This may take a few minutes the first time.  
+   - Once the setup is complete, a new tab will open in your web browser containing your Codespace.  
+   - This environment includes all the necessary tools, configurations, and dependencies pre-installed for the exercises.  
+
+3. **Start Coding**  
+   - Once the Codespace is ready, you’ll be inside a fully pre-configured development environment.  
+   - Open the terminal in the Codespace and run any required commands to begin the exercises.  
+   - Follow the exercise instructions provided in the repository to complete each task.  
 
 ---
 
