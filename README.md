@@ -12,7 +12,7 @@ Site Reliability Engineering (SRE) is a discipline that applies software enginee
 
 To begin working on this project, you can launch a preconfigured Codespace with all the required tools already set up. Simply click the button below to get started:
 
-[![**Launch Codespace**](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/cguillencr/sre-abc-training/codespaces)
+[![Launch Codespace](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/rsergio07/sre-abc-training/codespaces)
 
 This ensures you have a consistent development environment without needing to install anything locally. Everything is ready to use directly in your browser.
 
